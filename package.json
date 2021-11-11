@@ -1,0 +1,12 @@
+{
+  "name": "hronos",
+  "version": "1.0.1-alpha",
+  "description": "extended library for date/time operations",
+  "main": "hronos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Serhiy Filonenko",
+  "license": "ISC",
+  "type": "module"
+}
